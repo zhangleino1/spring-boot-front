@@ -1,7 +1,7 @@
 # 项目介绍
 
-需求文档 https://giteecode.feishu.cn/wiki/EYLlw5QC1iBIjCkqwRhc0Qvxnoe
-
+一个干净的前后台分离的前后端项目，前端使用 Vue3 + Element Plus，后端使用 Spring Boot + MyBatis-Plus。
+前端使用 Vite 构建，后端使用 Spring Boot 提供 RESTful API。
 # 项目结构
 ```
 sbom-front # 前端项目，使用 Vue3 element-plus
